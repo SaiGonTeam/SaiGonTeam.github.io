@@ -1,0 +1,119 @@
+{
+  "name": "SGLive",
+  "identifier": "com.livecontainer.source2",
+  "website": "https://github.com/SGLive/SGLive",
+  "subtitle": "Nguồn AltStore chính thức của SGLive.",
+  "description": "Đây là nguồn AltStore chính thức dành cho SGLive.\n\n Chạy ứng dụng iOS mà không cần cài đặt thực sự!",
+  "tintColor": "#444444",
+  "iconURL": "https://raw.githubusercontent.com/MaiiMeii/Happy/refs/heads/main/logo.png",
+  "headerURL": "https://raw.githubusercontent.com/MaiiMeii/Happy/refs/heads/main/header.png",
+  "apps": [
+    {
+      "beta": false,
+      "name": "SGLive",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "SGLive",
+      "subtitle": "Chạy ứng dụng iOS mà không cần cài đặt thực sự!",
+      "version": "1.1",
+      "versionDate": "2026-03-1T14:25:41Z",
+      "versionDescription": "Vui lòng sử dụng [SGLoader](https://github.com/H0ahuynh) để cài đặt và cập nhật SGLive.",
+      "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.1/SGLive.ipa",
+      "localizedDescription": "Chạy ứng dụng iOS mà không cần cài đặt thực sự!",
+      "iconURL": "https://raw.githubusercontent.com/MaiiMeii/Happy/refs/heads/main/logo.png",
+      "tintColor": "#0784FC",
+      "category": "utilities",
+      "size": 39309944,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/MaiiMeii/Happy/refs/heads/main/iphone.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "com.apple.security.application-groups",
+          "get-task-allow",
+          "keychain-access-groups",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access"
+        ],
+        "privacy": {
+          "LSRequiresIPhoneOS": "Ứng dụng khách yêu cầu quyền này.",
+          "NFCReaderUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSAppleMusicUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSBluetoothAlwaysUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSBluetoothPeripheralUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSCalendarsFullAccessUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSCameraUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSContactsUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSFaceIDUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSFallDetectionUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSGKFriendListUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSHealthClinicalHealthRecordsShareUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSHealthRequiredReadAuthorizationTypeIdentifiers": "Ứng dụng khách yêu cầu quyền này.",
+          "NSHomeKitUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSIdentityUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSLocalNetworkUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSLocationDefaultAccuracyReduced": "Ứng dụng khách yêu cầu quyền này.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "Ứng dụng khách yêu cầu quyền này.",
+          "NSLocationUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSLocationWhenInUseUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSMicrophoneUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSMotionUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSNearbyInteractionAllowOnceUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSNearbyInteractionUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSPhotoLibraryAddUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSPhotoLibraryUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSRemindersFullAccessUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSSensorKitUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSSiriUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSSpeechRecognitionUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSUserTrackingUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "SBAppUsesLocalNotifications": "Ứng dụng khách yêu cầu quyền này.",
+          "UIApplicationSceneManifest": "Ứng dụng khách yêu cầu quyền này.",
+          "NSHealthUpdateUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSHealthShareUsageDescription": "Ứng dụng khách yêu cầu quyền này.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Ứng dụng khách yêu cầu quyền này."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1 ",
+          "date": "2026-03-1T14:25:41Z",
+          "localizedDescription": "Vui lòng sử dụng [SGLoader](https://github.com/H0ahuynh) để cài đặt và cập nhật SGLive.",
+          "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.1/SGLive.ipa",
+          "size": 39309944
+        }
+      ],
+      "releaseChannels": [
+        {
+          "track": "nightly",
+          "releases": [
+            {
+              "version": "1.1 ",
+              "date": "2026-03-1T14:25:41Z",
+              "localizedDescription": "- Phát hành.",
+              "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.1/SGLive.ipa",
+              "size": 39309944
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "appID": "com.kdt.livecontainer",
+      "caption": "Bản cập nhật SGLive vừa được phát hành!",
+      "date": "2026-03-1T14:25:41Z",
+      "identifier": "release-1.0",
+      "imageURL": "https://raw.githubusercontent.com/MaiiMeii/Happy/refs/heads/main/release.png",
+      "notify": true,
+      "tintColor": "#444444",
+      "title": "1.1 - SGLive 01/03/2026",
+      "url": "https://github.com/MaiiMeii/Happy/releases/tag/1.1"
+    }
+  ]
+}
