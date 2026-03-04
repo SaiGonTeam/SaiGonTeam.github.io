@@ -14,10 +14,10 @@
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "SGLive",
       "subtitle": "Chạy ứng dụng iOS mà không cần cài đặt thực sự!",
-      "version": "1.1",
+      "version": "1.0",
       "versionDate": "2026-03-1T14:25:41Z",
       "versionDescription": "Vui lòng sử dụng [SGLoader](https://github.com/H0ahuynh) để cài đặt và cập nhật SGLive.",
-      "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.1/SGLive.ipa",
+      "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.0/SGLive.ipa",
       "localizedDescription": "Chạy ứng dụng iOS mà không cần cài đặt thực sự!",
       "iconURL": "https://raw.githubusercontent.com/MaiiMeii/Happy/refs/heads/main/logo.png",
       "tintColor": "#0784FC",
@@ -80,10 +80,10 @@
       },
       "versions": [
         {
-          "version": "1.1",
+          "version": "1.0",
           "date": "2026-03-1T14:25:41Z",
-          "localizedDescription": "Vui lòng sử dụng [SGLoader](https://github.com/H0ahuynh) để cài đặt và cập nhật SGLive.",
-          "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.1/SGLive.ipa",
+          "localizedDescription": "\nVui lòng sử dụng [SGLoader](https://github.com/H0ahuynh) để cài đặt và cập nhật SGLive.",
+          "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.0/SGLive.ipa",
           "size": 39309944
         }
       ],
@@ -92,10 +92,10 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "1.1",
+              "version": "1.0",
               "date": "2026-03-1T14:25:41Z",
               "localizedDescription": "- Phát hành.",
-              "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.1/SGLive.ipa",
+              "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.0/SGLive.ipa",
               "size": 39309944
             }
           ]
@@ -112,8 +112,8 @@
       "imageURL": "https://raw.githubusercontent.com/MaiiMeii/Happy/refs/heads/main/release.png",
       "notify": true,
       "tintColor": "#444444",
-      "title": "1.1 - SGLive 01/03/2026",
-      "url": "https://github.com/MaiiMeii/Happy/releases/tag/1.1"
+      "title": "1.0 - SGLive 01/03/2026",
+      "url": "https://github.com/MaiiMeii/Happy/releases/tag/1.0"
     }
   ]
 }
@@ -133,10 +133,10 @@
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "SGLive",
       "subtitle": "Chạy ứng dụng iOS mà không cần cài đặt thực sự!",
-      "version": "1.1",
+      "version": "1.0",
       "versionDate": "2026-03-1T14:25:41Z",
       "versionDescription": "Vui lòng sử dụng [SGLoader](https://github.com/H0ahuynh) để cài đặt và cập nhật SGLive.",
-      "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.1/SGLive.ipa",
+      "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.0/SGLive.ipa",
       "localizedDescription": "Chạy ứng dụng iOS mà không cần cài đặt thực sự!",
       "iconURL": "https://raw.githubusercontent.com/MaiiMeii/Happy/refs/heads/main/logo.png",
       "tintColor": "#0784FC",
@@ -199,10 +199,10 @@
       },
       "versions": [
         {
-          "version": "1.1",
+          "version": "1.0",
           "date": "2026-03-1T14:25:41Z",
           "localizedDescription": "Vui lòng sử dụng [SGLoader](https://github.com/H0ahuynh) để cài đặt và cập nhật SGLive.",
-          "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.1/SGLive.ipa",
+          "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.0/SGLive.ipa",
           "size": 39309944
         }
       ],
@@ -211,10 +211,10 @@
           "track": "nightly",
           "releases": [
             {
-              "version": "1.1",
+              "version": "1.0",
               "date": "2026-03-1T14:25:41Z",
               "localizedDescription": "- Phát hành.",
-              "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.1/SGLive.ipa",
+              "downloadURL": "https://github.com/MaiiMeii/Happy/releases/download/1.0/SGLive.ipa",
               "size": 39309944
             }
           ]
@@ -231,8 +231,8 @@
       "imageURL": "https://raw.githubusercontent.com/MaiiMeii/Happy/refs/heads/main/release.png",
       "notify": true,
       "tintColor": "#444444",
-      "title": "1.1 - SGLive 01/03/2026",
-      "url": "https://github.com/MaiiMeii/Happy/releases/tag/1.1"
+      "title": "1.0 - SGLive 01/03/2026",
+      "url": "https://github.com/MaiiMeii/Happy/releases/tag/1.0"
     }
   ]
 }
